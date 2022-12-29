@@ -1,0 +1,30 @@
+
+ .google_lens
+  {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float:none;
+    background: rgb(228, 154, 18) ; 
+    border-radius: 20px; 
+    color: rgb(32, 0, 240);
+    box-shadow:5px 5px 5px rgb(171, 112, 10);
+    padding : 10px;
+  }
+
+.size{
+height:90px;
+width :95px;
+  }
+
+#for{
+  background-color: violet;
+  border-style: ridge;
+  white-space:pre-line;
+}
+.vs{
+  height:60px;
+width :85px;
+}
+span{
+color: indigo;
+background-color: peachpuff;
+}
